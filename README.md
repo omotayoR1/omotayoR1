@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omotayoR1
 - 👀 I’m interested in front-end development 
-- 💞️ I’m looking to collaborate on find.app
+- 💞️ react lover
 - 📫 How to reach me @omotayo_R1 on twitter 
 
 <!---
